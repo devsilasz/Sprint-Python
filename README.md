@@ -91,9 +91,12 @@ Nyck de Vries | Pontos: 150
 Mitch Evans | Pontos: 135
 
 ## Estrutura de Arquivos
-projeto-formula-e/
-│
-├── main.py                 # Código principal com a lógica do programa
-├── pilotos_formula_e.csv    # Arquivo gerado com dados de pilotos (após exportação)
-├── README.md                # Documentação do projeto
-└── requirements.txt         # Bibliotecas necessárias para execução
+```
+    projeto-formula-e/
+    │
+    ├── main.py                 # Código principal com a lógica do programa
+    ├── pilotos_formula_e.csv    # Arquivo gerado com dados de pilotos (após exportação)
+    ├── README.md                # Documentação do projeto
+    └── requirements.txt         # Bibliotecas necessárias para execução
+
+```
